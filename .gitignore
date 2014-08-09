@@ -1,0 +1,12 @@
+syntax: glob
+Library
+Temp
+Web
+Builds
+inLogin
+*.pidb
+*.sln
+*.userprefs
+*.csprog
+*.orig
+Assets/inLogin.meta
