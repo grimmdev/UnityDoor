@@ -16,3 +16,7 @@ void OnTriggerStay (Collider other)
 with
 
 void OnTriggerStay2D (Collider other)
+
+NOTES
+
+You will need to set the player's Tag in Unity Editor to Player. (as seen in the demo scene provided)
